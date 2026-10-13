@@ -2,7 +2,7 @@
 
 int main(void) {
     int zahl;
-    const int PeterBday = 91;
+    const int PeterBday = 15;
 
     printf("Deine Zahl ist: ");
     scanf("%d", &zahl);
